@@ -8,5 +8,4 @@ Tutorial:
 2. File -> Open
 3. Choose an image which you want to process -> open
 4. File -> Recognize
-5. 
 ---End---
