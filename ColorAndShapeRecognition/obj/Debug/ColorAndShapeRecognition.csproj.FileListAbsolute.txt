@@ -38,3 +38,43 @@ D:\Education\DUT\Others\ColorAndShapeRecognition\ColorAndShapeRecognition\obj\De
 D:\Education\DUT\Others\ColorAndShapeRecognition\ColorAndShapeRecognition\obj\Debug\ColorAndShapeRecognition.csproj.CopyComplete
 D:\Education\DUT\Others\ColorAndShapeRecognition\ColorAndShapeRecognition\obj\Debug\ColorAndShapeRecognition.exe
 D:\Education\DUT\Others\ColorAndShapeRecognition\ColorAndShapeRecognition\obj\Debug\ColorAndShapeRecognition.pdb
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\x64\concrt140.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\x64\cvextern.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\x64\msvcp140.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\x64\vcruntime140.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\x86\concrt140.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\x86\cvextern.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\x86\msvcp140.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\x86\vcruntime140.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\ColorAndShapeRecognition.exe.config
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\ColorAndShapeRecognition.exe
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\ColorAndShapeRecognition.pdb
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\Emgu.CV.UI.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\Emgu.CV.World.NetStandard.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\ZedGraph.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\Emgu.CV.UI.xml
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\Emgu.CV.World.NetStandard.xml
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\ZedGraph.xml
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\de\ZedGraph.resources.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\es\ZedGraph.resources.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\fr\ZedGraph.resources.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\hu\ZedGraph.resources.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\it\ZedGraph.resources.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\ja\ZedGraph.resources.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\pt\ZedGraph.resources.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\ru\ZedGraph.resources.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\sk\ZedGraph.resources.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\sv\ZedGraph.resources.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\tr\ZedGraph.resources.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\obj\Debug\ColorAndShapeRecognition.csprojAssemblyReference.cache
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\obj\Debug\ColorAndShapeRecognition.Form1.resources
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\obj\Debug\ColorAndShapeRecognition.Properties.Resources.resources
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\obj\Debug\ColorAndShapeRecognition.csproj.GenerateResource.cache
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\obj\Debug\ColorAndShapeRecognition.csproj.CoreCompileInputs.cache
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\obj\Debug\ColorAndShapeRecognition.csproj.CopyComplete
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\obj\Debug\ColorAndShapeRecognition.exe
+D:\Education\DUT\Others\New folder\ColorAndShapeRecognition\ColorAndShapeRecognition\obj\Debug\ColorAndShapeRecognition.pdb
