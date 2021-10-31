@@ -34,6 +34,7 @@ namespace ColorAndShapeRecognition
             try
             {
                 OpenFileDialog dialog = new OpenFileDialog();
+                dialog.Filter = "Image files (*.png;*.jpg)|*.png;*.jpg|All files (*.*)|*.*";
                 if (dialog.ShowDialog() == DialogResult.OK)
                 {
                     imgOriginal = new Image<Bgr, byte>(dialog.FileName);
